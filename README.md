@@ -26,3 +26,10 @@ entropy analysis(checking)
 time-series analysis of vote count
 
 monte carlo idk
+
+
+--
+
+data : 
+normal one - which has normal data (survey + election data)
+to check - 2022 korea election, us election 2020 and 2024, and some more 
